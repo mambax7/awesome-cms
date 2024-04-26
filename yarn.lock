@@ -167,7 +167,7 @@ boom@2.x.x:
   resolved "https://registry.yarnpkg.com/boom/-/boom-2.10.1.tgz#39c8918ceff5799f83f9492a848f625add0c766f"
   integrity sha1-OciRjO/1eZ+D+UkqhI9iWt0Mdm8=
   dependencies:
-    hoek "4.2.1"
+    hoek "8.5.1"
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -745,7 +745,7 @@ hawk@~3.1.3:
   dependencies:
     boom "2.x.x"
     cryptiles "2.x.x"
-    hoek "4.x.x"
+    hoek "8.5.1"
     sntp "1.x.x"
 
 hoek@4.x.x:
@@ -1481,7 +1481,7 @@ sntp@1.x.x:
   resolved "https://registry.yarnpkg.com/sntp/-/sntp-1.0.9.tgz#6541184cc90aeea6c6e7b35e2659082443c66198"
   integrity sha1-ZUEYTMkK7qbG57NeJlkIJEPGYZg=
   dependencies:
-    hoek "4.x.x"
+    hoek "8.5.1"
 
 source-map@^0.6.1, source-map@~0.6.1:
   version "0.6.1"
